@@ -18,6 +18,20 @@ To generate high quality images from user-provided text prompts using pre traine
 
 📷 Screenshot of code
 
+![Screenshot_20250629-213936_LinkedIn](https://github.com/user-attachments/assets/763b649b-e822-49df-a679-aef285d963e2)
+
+![Screenshot_20250629-213941_LinkedIn](https://github.com/user-attachments/assets/524e8d70-232d-4f97-a52c-ff7de1d6047e)
+
+![Screenshot_20250629-213944_LinkedIn](https://github.com/user-attachments/assets/2a49d10a-3e12-4669-a3ed-7034740c1f19)
+
+Output 
+
+![Screenshot_20250629-214226_LinkedIn](https://github.com/user-attachments/assets/8c292003-adfb-4766-90e4-11256dc6e3c5)
+
+
+
+
+
 
 
 
